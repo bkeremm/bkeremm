@@ -1,7 +1,8 @@
 ### Hi there 👋  I am Kerem Bahcivan, MSc IT & Computer Engineer. 
-#### I have a software company that develops Web and Mobile applications (@cankod).
+#### I have a software company that develops Web and Mobile applications (https://cankod.com).
 
 Here are some of the languages I use fondly ⚡
+
 Php, React, React Native, Ionic, Node, Express, Typescript, Vue, MongoDb, MySQL, Javascript.
 
 
