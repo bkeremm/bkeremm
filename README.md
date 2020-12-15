@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋  I am Kerem Bahcivan, MSc IT & Computer Engineer. 
 #### I have a software company that develops Web and Mobile applications (@cankod).
 
