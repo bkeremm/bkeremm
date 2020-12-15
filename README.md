@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**bkeremm/bkeremm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋  I am Kerem Bahcivan, MSc IT & Computer Engineer. 
+#### I have a software company that develops Web and Mobile applications (@cankod).
 
-Here are some ideas to get you started:
+Here are some of the languages I use fondly ⚡
+Php, React, React Native, Ionic, Node, Express, Typescript, Vue, MongoDb, MySQL, Javascript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Some Stats:
+
+![profile views](https://komarev.com/ghpvc/?username=bkeremm)
+
+![stat](https://github-readme-stats.vercel.app/api?username=bkeremm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
+
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bkeremm)
